@@ -76,6 +76,3 @@ hosts = showhosts('2')
 print(json.dumps(hosts))
 logoutmessage = logout(sid)
 print(logoutmessage)
-
-# publish_result = api_call('192.168.65.2', 443,"publish", {},sid)
-# print("publish result: " + json.dumps(publish_result))
