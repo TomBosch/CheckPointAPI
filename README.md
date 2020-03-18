@@ -1,4 +1,4 @@
-# CheckPointAPI
+# Check Point API
 # With this Python scripts I try to help people to use the API of Check Point.
 The script "exampleCheckpointAPI.py" is an example how to login and execute a simple show hosts command through API.
 
